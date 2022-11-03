@@ -1,0 +1,19 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "test-projects for udemy node.js course",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saptarshi1992/node-Udemy.git"
+  },
+  "author": "saptarshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saptarshi1992/node-Udemy/issues"
+  },
+  "homepage": "https://github.com/saptarshi1992/node-Udemy#readme"
+}
